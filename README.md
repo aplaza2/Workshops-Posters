@@ -1,7 +1,7 @@
 # Towards Analyzing and Minimizing the Carbon Footprint of Reinforcement Learning-Based Sequential Recommender Systems
 
-### Supplementary Material for the IEEE ICPRS 2025 Workshop Poster
-This repository accompanies the poster presented at the IEEE ICPRS 2025 Workshop and provides supplementary material related to our study on the environmental impact of reinforcement learning–based sequential recommender systems.
+### Supplementary Material
+This repository accompanies the poster presented at the IEEE ICPRS 2025 Workshop and the IMFD VIII Workshop 2026, providing supplementary material for our study on the environmental impact of reinforcement learning–based sequential recommender systems.
 
 ---
 
